@@ -4,6 +4,6 @@
 
 Passwords Folder Contains:
 
-Uppercase and Lowercase : 60000 passwords (12 Digits, 24 Digits)
+Uppercase and Lowercase : Still counting passwords (12 Digits, 24 Digits)
 
 Numeric : Still counting pincodes (4 Digits, 6 Digits, 8 Digits)
